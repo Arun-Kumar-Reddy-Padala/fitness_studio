@@ -1,0 +1,16 @@
+Class Booking:
+
+{
+  "class_id": "1",
+  "client_name": "Arun",
+  "client_email": "arun@example.com"
+}
+
+
+
+
+Search Bookings By email"
+
+{
+  "client_email": "arun@example.com"
+}
